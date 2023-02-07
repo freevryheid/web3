@@ -5,7 +5,7 @@ Uses c sources from https://github.com/foxweb/pico
 
 ## git
 ```
-git clone git@github.com:freevryheid/web3.git
+git clone https://github.com/freevryheid/web3.git
 cd web3
 ```
 
